@@ -1,2 +1,2 @@
-# ann_university_course
+# ANN Course
 Code for some neural network assignments undertaken in school.
